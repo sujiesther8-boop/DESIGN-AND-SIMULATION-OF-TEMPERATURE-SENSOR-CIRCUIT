@@ -1,27 +1,32 @@
 # DESIGN-AND-SIMULATION-OF-TEMPERATURE-SENSOR-CIRCUIT
 # AIM
-![WhatsApp Image 2025-11-21 at 21 10 53_57b77cb7](https://github.com/user-attachments/assets/fb5b0120-7834-4c4c-b345-80252ceb6130)
 
-# COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 11 22_1619e915](https://github.com/user-attachments/assets/7a79c273-1234-483e-ba97-e55a82c9d555)
+<img width="1280" height="612" alt="image" src="https://github.com/user-attachments/assets/04c53ac8-2496-46ad-b51f-707ad9056e18" />
+
 # SOFTWARE REQUIRED 
-![WhatsApp Image 2025-11-21 at 21 11 45_487591c6](https://github.com/user-attachments/assets/584d023b-dab9-49c4-91e4-fb309f16756d)
+
+<img width="1280" height="918" alt="image" src="https://github.com/user-attachments/assets/e5232447-56e3-442e-8f8c-fcca7bf8d184" />
 
 # THEORY
 
-![WhatsApp Image 2025-11-21 at 21 12 06_4921e7a2](https://github.com/user-attachments/assets/4d30a941-7bee-4e01-b0db-dc0930ae3829)
+<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/f5a5544a-b27a-491f-91b2-b9fd6cbbc254" />
+
 
 # PROCEDURE 
 
-![WhatsApp Image 2025-11-21 at 21 12 15_6d56f87c](https://github.com/user-attachments/assets/cd4600c6-8d7d-40ad-975e-cb652f825493)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/435829d0-1c0c-4808-b030-c690a51232f3" />
+
 
 # CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-21 at 21 13 08_639ebcf6](https://github.com/user-attachments/assets/b76b059d-dcba-4a03-acae-002ac239ec23)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1d312cfd-82bb-4a40-a193-05e4fc62d8a4" />
+
 
 
 # RESULT
-![WhatsApp Image 2025-11-21 at 21 13 09_ae881650](https://github.com/user-attachments/assets/c6eca472-401f-4d11-91f7-21cda731318d)
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6a16d633-3c36-48b2-a5db-86821ef936a0" />
+
 
 
 
